@@ -132,7 +132,7 @@
     <ClCompile Include="TP2.cpp" />
     <ClCompile Include="TP3.cpp" />
     <ClCompile Include="TP4.cpp" />
-    <ClCompile Include="TPMain.cpp" />
+    <ClCompile Include="TpAnto.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TP1.hpp" />
